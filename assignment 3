@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> Running</title>
+</head>
+
+<body>
+	<header>
+		<h1> Run for fun </h2>
+		<nav>
+			<a href=#about”>About</a>
+			<a href=#gallery”>Gallery</a>
+			<a href=#contact”>Contact</a>
+		</nav>
+	</header>
+	<main>
+		<section id="about">
+			<h2> Why you should run </h2>
+				<p> Here we will learn why we should run. </p>
+				<figure>
+					<img src="guyrunning.jpeg" alt="Guy running">
+					<figcaption>A guy runnning by a mountain.<figcaption>
+				<figure>
+		<section id="gallery">
+			<h2> The Gallery of running </h2>
+				<p> Here we will learn why we should run. </p>
+		</section>
+		<section id="contact">
+			<h2> Contact Us </h2>
+				<form action ="#123 456 7890" method="post">
+						<label for="name">Name:</label>
+							<input type="text" id="name" name="name" required> <br>
+						<label for="discordname">Discord Name:</label>
+							<input type="text" id="discordname" name="discordname" required> <br>
+						<label for="message">Message:</label>
+							<textarea id="message" name="message" rows="4" required>
+							</textarea><br>
+						<button type="submit">Destroy</button>
+		</section>
+
+		<footer>
+			<p> &copy My webpage </p>
+	</main>
+</body>
+</html>
+
